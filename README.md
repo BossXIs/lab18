@@ -1,2 +1,2 @@
-# NAME: Weerawvut Kongwong
+# NAME: Weeravut Kongwong
 # STUDENT ID: 640610685
